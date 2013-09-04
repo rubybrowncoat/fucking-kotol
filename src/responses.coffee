@@ -1,3 +1,18 @@
+# Description:
+#   Allows Hubot to respond like KOTOL!
+#
+# Dependencies:
+#   None
+#
+# Configuration:
+#  None
+#
+# Commands
+#  give/giff me mana - duh.
+#
+# Author:
+#  Vincent Paca
+
 module.exports = (robot) ->
   mana_responses = [
     "Come. Come close to me!",
