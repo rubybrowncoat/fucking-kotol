@@ -25,7 +25,8 @@ module.exports = (robot) ->
     "You wait for mana",
     "I have no mana for give",
     "I put tango on the floor, you take?",
-    "Wat de fuq!?"
+    "Wat de fuq!?",
+    "Waddifaq",
     "You giff me chakra mayjic",
     "We do roshan?",
     "I give you my deek",
